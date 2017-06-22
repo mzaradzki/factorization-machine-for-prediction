@@ -2,9 +2,11 @@
 Factorization Machine for regression and classification
 
 
-**Note 1** : The PyTorch implementation is mine while the Keras and Theano versions were found on the web (references at the top of relevant notebooks)
+**Note 1** : The PyTorch implementation is mine while the Keras and Theano versions were found on the web (references at the top of relevant notebooks).
 
 **Note 2** : The PyTorch implementation uses the efficient O(k.N) formula from Steffen Rendle.
+
+**Note 3** : I am quite new to PyTorch so do not hesitate to highlight all improvements you deem necessary.
 
 
 #### Goal
